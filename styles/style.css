@@ -257,16 +257,12 @@
     padding-top: 76px;
 } 
 
-.info-paragraph-second {
-    padding-top: 25px;
-}
-
 /* Подвал */
 
 .footer {
     display: grid;
     grid-template-columns: auto 1fr auto;
-    padding: 156px 50px 88px;
+    padding: 180px 50px 88px;
     gap: 140px;
     align-items: flex-start;
 }
@@ -279,8 +275,6 @@
     padding: 0;              
     margin: 0;                
 }
-
-/* Меню футера */
 
 .footer__menu-list {
   text-align: center;
