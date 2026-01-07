@@ -22,8 +22,9 @@
 }
 
 .header__logo {
-    width: 148px;
-    height: 105px;
+    width: 120px;   
+    height: 85px;   
+    margin-left: 20px; 
 }
 
 .header__menu a {
@@ -266,7 +267,7 @@
 .footer {
     display: grid;
     grid-template-columns: auto 1fr auto;
-    padding: 180px 50px 88px;
+    padding: 156px 50px 88px;
     gap: 140px;
     align-items: flex-start;
 }
