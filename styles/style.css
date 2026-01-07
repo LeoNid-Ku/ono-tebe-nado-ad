@@ -22,9 +22,8 @@
 }
 
 .header__logo {
-    width: 120px;   
-    height: 85px;   
-    margin-left: 20px; 
+    width: 148px;
+    height: 105px;
 }
 
 .header__menu a {
@@ -279,10 +278,6 @@
     list-style: none;         
     padding: 0;              
     margin: 0;                
-}
-
-.footer__contacts-list li {
-    margin-bottom: 8px;       
 }
 
 /* Меню футера */
